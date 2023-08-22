@@ -1,0 +1,19 @@
+.logo-image{
+  margin-right: 20px;
+}
+
+.Navbar_boubou{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.titre_header{
+  font-size: 2em;
+  font-family:  'ADLaM Display', sans-serif;
+}
+@media (max-width: 768px) {
+  .titre_header{
+    font-size: 1em;
+    font-family:  'ADLaM Display', sans-serif;
+  }
+}

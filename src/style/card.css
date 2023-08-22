@@ -1,0 +1,179 @@
+/* Styles généraux pour les cartes */
+.custom-card {
+    border: none;
+    border-radius: 30px !important;
+    overflow: hidden;
+    transition: transform 0.3s;
+}
+
+.custom-card:hover {
+    transform: scale(1.05);
+}
+
+.card-custom {
+    background-size: cover;
+    border-radius: 20px !important;
+    background-position: center;
+    box-shadow: 10px 10px 15px rgba(0,0, 0, 0.2);
+}
+
+.card-custom::before {
+    content: "";
+    display: block;
+    padding-top: 56.25%; /* 16:9 */
+}
+
+.card-custom:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s;
+    cursor: pointer;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+}
+
+.badge-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1.5em;
+}
+
+.badge-orange {
+    background-color: orange !important;
+    color: white;
+}
+
+.description_header{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 10px;
+}
+
+.card-spacing {
+    margin-bottom: 15px;
+}
+
+.col-spacing {
+    padding: 10px;
+}
+
+.row > .col.card-spacing:last-child {
+    margin-right: 0;
+}
+
+.transparent-modal .modal-content {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+.transparent-modal .modal-dialog {
+    max-width: 100%;
+}
+
+.transparent-modal .modal-header,
+.transparent-modal .modal-footer {
+    border: none;
+}
+
+.transparent-card, .Film_description {
+    width: 100% !important;
+    margin: auto;
+    font-size: 1.2em;
+    
+    border: none;
+    border-radius: 30px !important;
+}
+.transparent-card{
+    background-color: rgba(0, 0, 0, 0.0) !important;
+}
+.transparent-card iframe {
+    border-radius: 15px;
+    
+}
+
+.Film_description {
+    height: auto !important;
+    margin-top: 20px;
+    background-color: #F5F5F5 !important;
+}
+
+
+.category_title{
+    font-family:  'ADLaM Display', sans-serif;
+}
+
+
+@media (min-width: 992px) {
+
+    .transparent-modal .modal-dialog {
+        max-width: 50% !important;
+    }
+    .image-container-serie{
+        height: 500px !important;
+        padding-top: 0% !important;
+    }
+}
+
+
+
+@media (min-width: 768px) {
+
+    .transparent-modal .modal-dialog {
+        max-width: 80% !important;
+    }
+}
+
+
+
+@media (max-width: 768px) {
+    .Film_description .badge-custom-film {
+        margin: 5px 0;
+        font-size: 0.9em;
+       
+        background-color: #dc8e3b !important; 
+    }
+    .Film_description Card.Title, .Film_description span {
+        font-size: 1.2em;
+        
+    }
+    .small-badge{
+        justify-content: space-around ;
+    }
+    .SerieCard{
+        background-color: #ffffff;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-radius: 20px;
+        
+    }
+    .DescSeriCard{
+        box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.0) !important;
+        margin-top: 0px !important; 
+    }
+    .iframeCard{
+        margin-top: 0px !important;
+    }
+}
+@media (min-width: 1200px) {
+    .image-container-serie{
+        height: 600px !important;
+        padding-top: 0% !important;
+    }
+   
+}
+
+@media (max-width: 480px) {
+    .Film_description {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .Film_description Card.Title, .Film_description span {
+        font-size: 1em;
+    }
+    .small-badge{
+        justify-content: space-around ;
+    }
+}

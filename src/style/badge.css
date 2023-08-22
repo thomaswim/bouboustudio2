@@ -1,0 +1,11 @@
+.badge-custom-film {
+    background-color: #dc8e3b !important; /* Vous pouvez changer cette couleur selon votre besoin */
+    color: white;
+    margin-right: 10px ;
+    font-size: 1em;
+}
+
+/* Si vous voulez également un effet de survol (hover): */
+.badge-custom-film:hover {
+    background-color: #218838; /* Une teinte légèrement plus foncée pour l'effet de survol */
+}

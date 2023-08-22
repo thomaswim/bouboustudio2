@@ -1,0 +1,674 @@
+{
+  "categories": [
+    {
+      "films": [
+        {
+          "accessRights": 1,
+          "actors": [
+            "Sara",
+            "Thomas BOURSAC",
+            "Noël LORTET"
+          ],
+          "awards": [
+            "Meilleur Performance Catégorie '10 ans' de Tradicettu 2009"
+          ],
+          "code": "ete0",
+          "description": "Deux intrépides explorateurs se lancent à la découverte des puissants sortilèges détenus par le légendaire magicien du maquis, Horibold II.",
+          "director": "Noël LORTET",
+          "duration": "18 min",
+          "genres": [
+            "Action",
+            "Aventure",
+            "Magie"
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/ete0.jpg?raw=true",
+          "releaseDate": "2009-01-01",
+          "shootingLocations": [
+            "Tradicettu, sur le beaux campement"
+          ],
+          "title": "L'été de tous les dangers",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/Ct91J2bCCgU",
+          "votes": 0
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Elliot LORTET",
+            "Oscar LORTET",
+            "Léonie POISSIER--LORTET"
+          ],
+          "awards": [
+            "Meilleur trio dans une fiction tournée à tradicettu en 2018"
+          ],
+          "code": "ete1",
+          "description": "Quand une série d'indice indiquant la position d'une mystérieuse boite magique, les trois cousins foncent a l'aventure",
+          "director": "Thomas BOURSAC, Noël LORTET",
+          "duration": "34m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/ete1.png?raw=true",
+          "releaseDate": "2018-01-01",
+          "shootingLocations": [
+            "Le maquis corse, la plage corse et le teritoire d'Horibold III !"
+          ],
+          "title": "Un été bien arrosé",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/52nvh-Uk1KA",
+          "votes": 0
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Elliot LORTET",
+            "Oscar LORTET",
+            "Léonie POISSIER--LORTET"
+          ],
+          "awards": [
+            "Meilleur trio dans une fiction tournée a tradicettu en 2019",
+            "Meilleur scénario dans la catégorie 'complexité'"
+          ],
+          "code": "ete2",
+          "description": "Réparer une erreur n'est pas chose aisé. Mais aujourd'hui, la chance leur sourit. Embarquer dans une aventure temporelle... intemporelle.",
+          "director": "Thomas BOURSAC, Noël LORTET, Stanislas HUILLE",
+          "duration": "39m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/ete2.png?raw=true",
+          "releaseDate": "2019-01-01",
+          "shootingLocations": [
+            "Corse sur le campement"
+          ],
+          "title": "Un été bien embrouillé",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/SYSp2MjGNj0",
+          "votes": 1
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Ambroise LORTET",
+            "Calliste LORTET",
+            "Domitille LORTET",
+            "Léonie POISSIER--LORTET"
+          ],
+          "awards": [
+            "Meilleur fiction",
+            "Nommé aux Sanglier d'or de Sartène",
+            "Meilleur effets spéciaux"
+          ],
+          "code": "ete3",
+          "description": "Embarquez dans la fabuleuse aventure de Juliette, Agathe, Athéna et Louis à la recherche d'un naufragé famillier.",
+          "director": "Thomas BOURSAC, Noël LORTET",
+          "duration": "1h 34m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/ete3.png?raw=true",
+          "releaseDate": "2020-01-01",
+          "shootingLocations": [
+            "Un peu partout et surtout ... à la source !"
+          ],
+          "title": "L'été du naufragé",
+          "trailerURL": "https://www.youtube.com/embed/aJ_ekh6glXs",
+          "videoURL": "https://www.youtube.com/embed/14rpyKbAnlo",
+          "votes": 8
+        }
+      ],
+      "name": "Blockbuster"
+    },
+    {
+      "films": [
+        {
+          "accessRights": 1,
+          "actors": [
+            "Mère nature"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "DOC2021",
+          "description": "Le grand documentaire de Tradiccetu",
+          "director": "Thomas BOURSAC",
+          "duration": "42m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/doc.png?raw=true",
+          "releaseDate": "2021-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Tradiccetu : La Terre Oubliée",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/eLZ1xHuukEo",
+          "votes": 1
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Jeanne Landron, Canards, Lettons inconnus"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "LAT",
+          "description": "LATVIJA: Vous croyiez que la Lettonie était une étoile de la Voie lactée ou un plat exotique? Surprise! C'est un pays où les arbres sont de grands bavards, l'histoire rivalise avec les meilleurs scripts d'Hollywood, et la capitale? Tellement chic qu'on pourrait la surnommer 'Paris du Nord' (avec moins de baguettes, plus de peps). Embarquez pour une virée déjantée à travers un pays qui vous fera dire: 'Pourquoi je n'y suis pas allé plus tôt ?!' Et si vous ne saviez pas où elle se trouvait... eh bien, c'est encore plus drôle !",
+          "director": "Thomas BOURSAC, Jeanne LANDRON",
+          "duration": "1h10",
+          "episodes": [
+            {
+              "description": "Explorez ce payage plat ... et glacial !",
+              "time": "20 min",
+              "titre": "Episode 1 : Territoire"
+            },
+            {
+              "description": "Une histoire à vous faire tordre le cou !",
+              "time": "20 min",
+              "titre": "Episode 2 : Héritage"
+            },
+            {
+              "description": "Une ville fabuleuse et un mode de vie unique",
+              "time": "20 min",
+              "titre": "Episode 3 : Capitale"
+            }
+          ],
+          "genres": [
+            ""
+          ],
+          "isSeries": true,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/LAT2.png?raw=true",
+          "releaseDate": "2023-08-01",
+          "shootingLocations": [
+            "La Letonnie evidément !"
+          ],
+          "title": "LATVIJA",
+          "trailerURL": "",
+          "videoURL": [
+            "https://www.youtube.com/embed/jNJX9fh3T8g",
+            "https://www.youtube.com/embed/6EjnKiZERAI",
+            "https://www.youtube.com/embed/4LLzrH54hcE"
+          ],
+          "votes": 0
+        }
+      ],
+      "name": "Documentaires"
+    },
+    {
+      "films": [
+        {
+          "accessRights": 1,
+          "actors": [
+            "Ambroise",
+            "Calliste",
+            "Domitille",
+            "Léonie"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "SURF2020",
+          "description": "Les youpiyoufs en mode surf",
+          "director": "Thomas",
+          "duration": "5m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/surf.png?raw=true",
+          "releaseDate": "2021-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Surf City",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/Uy_Fg-Cxf0c",
+          "votes": 0
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Ambroise LORTET",
+            "Calliste LORTET",
+            "Domitille LORTET",
+            "Léonie POISSIER--LORTET"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "CHU2019",
+          "description": "Un clip qui roule comme sur des roulettes.",
+          "director": "Thomas BOURSAC",
+          "duration": "5m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/CHU2019.png?raw=true",
+          "releaseDate": "2019-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Can't Hold Us",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/U-YbuntGm4w",
+          "votes": 1
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Les Youpiyoufs: Ambroise LORTET",
+            "Calliste LORTET",
+            "Domitille LORTET",
+            "Léonie POISSIER--LORTET"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "M2021",
+          "description": "Un clip à ne pas prendre à la légère au risque de se casser la figure.",
+          "director": "Thomas BOURSAC",
+          "duration": "5m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/M2021.png?raw=true",
+          "releaseDate": "2021-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Memories",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/hbZxHk0SRJo",
+          "votes": 4
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Maxandre GAILLARD",
+            "Antoine LECLERC",
+            "Ambroise LORTET",
+            "Calliste LORTET",
+            "Domitille LORTET",
+            "Léonie POISSIER--LORTET"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "PRA2020",
+          "description": "Le clip qui propulse les Youpiyoufs en haut de l'affiche.",
+          "director": "Thomas BOURSAC",
+          "duration": "5m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/PRA2020.png?raw=true",
+          "releaseDate": "2020-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Party Rock Anthem",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/LG6A3eqvJp8",
+          "votes": 3
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Ambroise LORTET",
+            "Calliste LORTET",
+            "Domitille LORTET",
+            "Elliot LORTET",
+            "Oscar LORTET",
+            "Léonie POISSIER--LORTET"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "SOY2018",
+          "description": "Le premier grand succès de Youpiyoufs. Revivez les premers moments de gloire du groupe.",
+          "director": "Thomas BOURSAC",
+          "duration": "5m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/SOY2018.png?raw=true",
+          "releaseDate": "2018-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Shape Of You",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/-q0wwdwmeIs",
+          "votes": 1
+        }
+      ],
+      "name": "Les Youpiyoufs"
+    },
+    {
+      "films": [
+        {
+          "accessRights": 1,
+          "actors": [
+            "Léonie POISSIER--LORTET",
+            "Thomas BOURSAC"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "SWO",
+          "description": "L'affrontement du mal contre le bien avec des moyens très limités",
+          "director": "Thomas BOURSAC",
+          "duration": "4m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/SWO.png?raw=true",
+          "releaseDate": "2017-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Home Star Wars",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/1-BzPtSr7TI",
+          "votes": 1
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Léonie POISSIER--LORTET",
+            "Thomas BOURSAC"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "SW1",
+          "description": "Leonie Lopa part a la recherche d'un objet précieux appartenant a son père, ancien maître Jedi.",
+          "director": "Thomas BOURSAC",
+          "duration": "8m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/SW1.png?raw=true",
+          "releaseDate": "2020-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Star Wars epiosode I : La menace de l'ombre",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/uz9i5AtgRb4",
+          "votes": 1
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Léonie POISSIER--LORTET",
+            "Thomas BOURSAC"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "SW2",
+          "description": "Léonie Lopa est a la recherche de son passé. Son aventure est semée d'embuscades",
+          "director": "Thomas BOURSAC",
+          "duration": "18m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/SW2.png?raw=true",
+          "releaseDate": "2020-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Star Wars Episode II : Le dernier Espoir",
+          "trailerURL": "https://www.youtube.com/embed/4_OaP2COC4Q",
+          "videoURL": "https://www.youtube.com/embed/y194jivxrCk",
+          "votes": 3
+        }
+      ],
+      "name": "Star Wars Low Cost"
+    },
+    {
+      "films": [
+        {
+          "accessRights": 1,
+          "actors": [
+            "Beaucoup de monde"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "B2k20",
+          "description": "Revivez le nouvel an 2020/2021 comme si vous y etiez! En bonus, vous verrez de rares images du soleil Breton.",
+          "director": "Thomas BOURSAC",
+          "duration": "6m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/B2k20.png?raw=true",
+          "releaseDate": "2021-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Bretagne 2k20",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/Q8XWxDKaY9E",
+          "votes": 1
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Beaucoup de monde"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "C2018",
+          "description": "LE clip émotion de l'été 2018, Revivez vos plus beaux souvenir en musique",
+          "director": "Thomas BOURSAC",
+          "duration": "10m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/C2018.png?raw=true",
+          "releaseDate": "2018-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Clip émotion 2018",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/902GazIu6EI",
+          "votes": 1
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Beaucoup de monde"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "C2020",
+          "description": "Les vacances en corse 2020",
+          "director": "Thomas BOURSAC",
+          "duration": "10m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/C2020.png?raw=true",
+          "releaseDate": "2020-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Clip émotion 2020",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/TrOnWa29V8A",
+          "votes": 1
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Beaucoup de monde"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "C2021",
+          "description": "Les vacances en corse 2021",
+          "director": "Thomas BOURSAC",
+          "duration": "10m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/C2021.png?raw=true",
+          "releaseDate": "2021-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Clip émotion 2021",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/rS4EBtCSNB4",
+          "votes": 1
+        }
+      ],
+      "name": "Clip Emotion"
+    },
+    {
+      "films": [
+        {
+          "accessRights": 1,
+          "actors": [
+            "Ambroise LORTET",
+            "Calliste LORTET",
+            "Domitille LORTET",
+            "Elliot LORTET",
+            "Oscar LORTET",
+            "Léonie POISSIER--LORTET"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "RM2018",
+          "description": "Une disparition aussi étrange que soudaine. Un thriller incontournable des années 2018.",
+          "director": "Thomas BOURSAC",
+          "duration": "10m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/RM2018.png?raw=true",
+          "releaseDate": "2018-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Le Rapt Mysterieux",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/cZyy9etWcJE",
+          "votes": 1
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Ambroise LORTET",
+            "Calliste LORTET",
+            "Domitille LORTET",
+            "Léonie POISSIER--LORTET"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "MASHUP",
+          "description": "Une composition musicale qui vous fera revivre vos plus grands moments du cinéma !",
+          "director": "Thomas BOURSAC",
+          "duration": "5m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/mashup.png?raw=true",
+          "releaseDate": "2021-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Mashup Film",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/c17mn7mxlxE",
+          "votes": 0
+        },
+        {
+          "accessRights": 1,
+          "actors": [
+            "Denis BOURSAC",
+            "Thomas BOURSAC",
+            "Rinto FUJIMOTOT"
+          ],
+          "awards": [
+            ""
+          ],
+          "code": "Japan2019",
+          "description": "un voyage extraordinaire sur un mash-up de musique de film",
+          "director": "Thomas BOURSAC",
+          "duration": "5m",
+          "genres": [
+            ""
+          ],
+          "isSeries": false,
+          "personalNotes": "",
+          "posterURL": "https://github.com/thomaswim/bouboustudio/blob/main/Japan2019.png?raw=true",
+          "releaseDate": "2019-01-01",
+          "shootingLocations": [
+            ""
+          ],
+          "title": "Japon 2019",
+          "trailerURL": "",
+          "videoURL": "https://www.youtube.com/embed/HlU_ntMAAcM",
+          "votes": 1
+        }
+      ],
+      "name": "Divers"
+    }
+  ],
+  "header": {
+    "categorie": 1,
+    "film": 1,
+    "image": "https://github.com/thomaswim/bouboustudio/blob/main/LAT2.png?raw=true",
+    "imagexs": "https://github.com/thomaswim/bouboustudio/blob/main/LAT.png?raw=true"
+  }
+}
