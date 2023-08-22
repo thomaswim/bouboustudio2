@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bouboustudio2/static/css/main.53b6e226.css",
-    "main.js": "/bouboustudio2/static/js/main.ac19dfa7.js",
+    "main.js": "/bouboustudio2/static/js/main.8f14ebf3.js",
     "static/js/787.cf8164d9.chunk.js": "/bouboustudio2/static/js/787.cf8164d9.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/bouboustudio2/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/bouboustudio2/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,11 +10,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/bouboustudio2/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/bouboustudio2/index.html",
     "main.53b6e226.css.map": "/bouboustudio2/static/css/main.53b6e226.css.map",
-    "main.ac19dfa7.js.map": "/bouboustudio2/static/js/main.ac19dfa7.js.map",
+    "main.8f14ebf3.js.map": "/bouboustudio2/static/js/main.8f14ebf3.js.map",
     "787.cf8164d9.chunk.js.map": "/bouboustudio2/static/js/787.cf8164d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53b6e226.css",
-    "static/js/main.ac19dfa7.js"
+    "static/js/main.8f14ebf3.js"
   ]
 }
