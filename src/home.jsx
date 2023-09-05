@@ -23,6 +23,7 @@ const Home = () => {
     };
 
     useEffect(() => {
+        console.log("heho");
         const fetchData = async () => {
             const dbRef = ref(db); // Reference to the root of your database
 
@@ -38,7 +39,7 @@ const Home = () => {
 
     return (
         <div style={{ marginLeft: '20px', marginRight: '20px' }}>
-            <TransparentNavbar />
+            
             {bandeau.film && 
                 <FeaturedCard 
                     film={categories[bandeau.categorie]?.films[bandeau.film]} 
