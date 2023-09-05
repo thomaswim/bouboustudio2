@@ -2,7 +2,7 @@
   "name": "boubou_studio_2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://etud.insa-toulouse.fr/~boursacc/studio2",
+  "homepage": "http://217.160.200.219/",
 
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
